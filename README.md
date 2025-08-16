@@ -1,1 +1,1 @@
-# ton-simple-smart-contract
+# ton-smart-contract
